@@ -8,13 +8,14 @@
     "wdth" 100;
 }
 
+
 /*nav styles*/
 
   nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0px 200px;
+    margin: 0px 100px;
     padding-bottom: 30px;
 
 }
@@ -32,7 +33,8 @@ border-radius:8px ;
 
 .banner-img{
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
 
 }
 .banner{
@@ -42,15 +44,16 @@ border-radius:8px ;
 }
 .banner-content{
     text-align: center;
+    margin: 0px 200px;
 }
 .banner-title{
-    font-size: 68px;
+    font-size: 48px;
     font-weight: bolder;
     padding-top: 32px;
     
 }
 .banner-description{
-    font-size: 26px;
+    font-size: 16px;
    padding-bottom: 24px;
 }
 .btn-contact{
@@ -61,5 +64,41 @@ border-radius:8px ;
     border-radius:8px;
     
 }
+
+.web-development-hadding{
+    text-align: center;
+}
+.section-titel{
+    font-size: 32px;
+}
+.section-description{
+    font-size: 16px;
+}
+.Layer-one{
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.Layer-titel{
+    font-size: 24px;
+    padding-bottom: 16px;
+}
+.Layer-description{
+    font-size: 16;
+    padding-bottom: 32px;
+}
+.btn-Layer{
+    font-weight: bold;
+    padding: 12px 20px;
+    border-radius:8px ;
+    
+}
+.web-development{
+    margin: 80px 230px;
+}
+
 
 
