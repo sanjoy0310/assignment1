@@ -75,30 +75,70 @@ border-radius:8px ;
     font-size: 16px;
 }
 .Layer-one{
-    padding-bottom: 20px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
-   
-    
+      
 }
+.Layer-two{
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      
+}
+
+
 .Layer-titel{
     font-size: 24px;
     padding-bottom: 16px;
+   margin-right:250px;
 }
 .Layer-description{
     font-size: 16;
     padding-bottom: 32px;
+    margin-right:250px;
 }
 .btn-Layer{
     font-weight: bold;
     padding: 12px 20px;
     border-radius:8px ;
     
+    
 }
 .web-development{
     margin: 80px 230px;
 }
+/*section two*/
+.two{
+    text-align: center;
+}
+.inspiration{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-bottom: 24px;
+
+}
+.inspiration-description{
+    font-size: 16px;
+    padding-bottom:48px ;
+    
+}
+.yt-link{
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+margin: 0px 230px;
+padding: 16px;
+}
+
+
+
+
+
 
 
 
