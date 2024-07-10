@@ -135,6 +135,55 @@ margin: 0px 230px;
 padding: 16px;
 }
 
+/*section three*/
+.skills-container{
+    display: flex; 
+
+    gap: 24px;
+    margin: 0px 250px; 
+}
+
+.text-center-hadding{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+    padding-bottom: 24px;
+    
+}
+.text-center-description{
+    font-size: 16px;
+    padding-bottom:48px ;
+    text-align: center;
+}
+
+.markup{
+    margin: 0px 250px; 
+}
+.bgfor-skill{
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+
+}
+.bg-skill{
+background-color:rgba(0, 76, 232, 0.05);
+padding: 40px;
+border-radius: 16px;
+
+
+}
+.bg-three{
+   background-color: rgba(255, 223, 0, 0.05);
+   padding: 40px;
+   border-radius: 16px;
+   
+}
+.larn{
+    text-decoration-line: underline;
+}
+
+
+
 
 
 
